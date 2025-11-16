@@ -32,4 +32,5 @@ $ npm install
 $ npm run dev:all
 ```
 The Django server will run on `http://localhost:8000/`
+
 The application will run on `http://localhost:5173/`
